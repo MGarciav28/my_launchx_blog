@@ -6,7 +6,17 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Miguel Garcia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://mgarciav28.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mgarciav28.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi viaje en LaunchX</title>
+      <link>https://mgarciav28.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mgarciav28.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>¡Hola! te voy a contar un poco de todo lo que he experimentado en estos casi 2 meses, para comenzar pude aprender y hacer ejercicios con Python y los Notebooks de Jupyter, los cuales me parece que brindan muchas libertades y facilidades para desarrollar y documentar pequeños bloques de codigo.
+En el modulo de Front-End pude reforzar y practicar mis conocimientos sobre HTML, CSS, Javascript, además pude acercarme al trabajo con frameworks como Vue y Angular, terminando con un acercamiento al despliegue y hospedaje de páginas estaticas.</description>
+    </item>
+    
     <item>
       <title>La cultura de un Desarrollador de Software</title>
       <link>https://mgarciav28.github.io/my_launchx_blog/posts/intro/</link>
